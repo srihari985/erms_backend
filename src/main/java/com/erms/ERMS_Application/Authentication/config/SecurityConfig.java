@@ -119,7 +119,7 @@ public class SecurityConfig {
     private CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);
-        config.setAllowedOrigins(Arrays.asList("http://192.168..", "http://localhost:3000","http://localhost:3001")); // Allow your frontend origin
+        config.setAllowedOrigins(Arrays.asList("http://192.168..", "http://localhost:3000","http://localhost:3001","http://192.168.29.219:81")); // Allow your frontend origin
         config.setAllowedHeaders(Arrays.asList("Origin", "Content-Type", "Accept", "Authorization")); // Allow all headers
         config.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS")); // Allow necessary HTTP methods
 
