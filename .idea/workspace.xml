@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69039d74-759b-480b-9d52-ba26b363a41e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/OperationTechniacalLead/OperationTechnicalLeadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/OperationTechniacalLead/OperationTechnicalLeadEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/OperationTechniacalLead/OperationTechnicalLeadRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/OperationTechniacalLead/OperationTechnicalLeadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/telecaller/Telecaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/telecaller/TelecallerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/telecaller/TelecallerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/token/TokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/userUtil/MailResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/DailyReport/DailyReportController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/DailyReport/DailyReportDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/DailyReport/DailyReportEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/DailyReport/DailyReportRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/DailyReport/DailyReportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/IntroPPT/PPTController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/IntroPPT/PPTEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/IntroPPT/PPTRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/IntroPPT/PPTService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/WebsiteFeedbackForm/WebsiteFeedbackFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/WebsiteFeedbackForm/WebsiteFeedbackFormDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/WebsiteFeedbackForm/WebsiteFeedbackFormEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/WebsiteFeedbackForm/WebsiteFeedbackFormService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/WebsiteFeedbackForm/WebsiteFeedbackRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/contactForm/ContactForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/contactForm/ContactFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/contactForm/ContactFormDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/contactForm/ContactFormRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/contactForm/ContactFormService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/feedbackForm/FeedbackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/feedbackForm/FeedbackForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/feedbackForm/FeedbackFormDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/feedbackForm/FeedbackRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/feedbackForm/FeedbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/video/DemoVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/video/DemoVideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/video/DemoVideoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Demo/video/DemoVideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/FoodAllowance/FoodAllowanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/FoodAllowance/FoodAllowanceDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/FoodAllowance/FoodAllowanceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/FoodAllowance/FoodAllowanceRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/FoodAllowance/FoodAllowanceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/MaterialRequest/MaterialRequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/MaterialRequest/MaterialRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/MaterialRequest/MaterialRequestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/MaterialRequest/MaterialRequestRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/MaterialRequest/MaterialRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/PertrolAllowance/PertrolAllowanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/PertrolAllowance/PertrolAllowanceRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/PertrolAllowance/PertrolAllowanceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/PertrolAllowance/PetrolAllowanceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/PertrolAllowance/TripDetailsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTable/ItemsSaleTableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTable/ItemsSaleTableDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTable/ItemsSaleTableEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTable/ItemsSaleTableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTable/ItemsSalesTableRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTable/TotalsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTotal/ItemsSalesTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTotal/ItemsSalesTotalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTotal/ItemsSalesTotalRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTotal/ItemsSalesTotalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsSaleTotal/ItemsSalesTotalUpdateDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/QuotationList/QuotationListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/QuotationList/QuotationListDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/QuotationList/QuotationListEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/QuotationList/QuotationListRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/QuotationList/QuotationListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/QuotationList/QuotationResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/TravelAllowance/TravelAllowanceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/TravelAllowance/TravelAllowanceDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/TravelAllowance/TravelAllowanceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/TravelAllowance/TravelAllowanceRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/TravelAllowance/TravelAllowanceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/Organization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/Orgnization/OrganizationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/admin/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/admin/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/auth/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/auth/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/auth/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/auth/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/managers/ManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/managers/ManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/saleManager/SaleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/saleManager/SaleManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/saleManager/SaleManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/saleManager/SaleManagerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/sales/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/sales/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/security/CustomUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/security/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/security/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/security/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/technician/Technician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/technician/Technician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/token/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/token/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/token/TokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/token/TokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/user/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/user/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/user/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/user/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/userUtil/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/userUtil/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/userUtil/UserUtilService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/userUtil/UserUtilService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/ErmsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/ErmsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddList/AddListController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddList/AddListEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddList/AddListRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddList/AddListService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddParty/AddPartyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/BankDetails/BankDetailsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/BankDetails/BankDetailsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/BankDetails/BankDetailsEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/BankDetails/BankDetailsEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/BankDetails/BankDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/BankDetails/BankDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Configurations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Form/FormService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/ItemsTable/ItemsTableService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Salesman/SaleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Salesman/SaleEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Salesman/SaleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/Salesman/SaleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mmHB2pl7Vjnssqou6rZR1Bk6wX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ErmsApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/thoparamvishwateja/Documents/ERMS-Application-04-11-24"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/telecaller" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Quotation/AddList" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.erms.ERMS_Application.Authentication.telecaller" />
+      <recent name="com.erms.ERMS_Application.Quotation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ErmsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.erms.ERMS_Application.ErmsApplication" />
+      <module name="ERMS-Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erms.ERMS_Application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ERMS-Application-07(new)-10-24" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ERMS-Application-07(new)-10-24" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ErmsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69039d74-759b-480b-9d52-ba26b363a41e" name="Changes" comment="" />
+      <created>1727674693068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727674693068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/erms/ERMS_Application/Authentication/userUtil/UserUtilService.java</url>
+          <line>159</line>
+          <properties class="com.erms.ERMS_Application.Authentication.userUtil.UserUtilService" method="changePassword">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
